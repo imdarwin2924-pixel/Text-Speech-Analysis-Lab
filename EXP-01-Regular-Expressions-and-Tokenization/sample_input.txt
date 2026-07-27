@@ -1,0 +1,5 @@
+John Smith joined ABC Technologies on 12/05/2025.
+His email is john.smith@gmail.com.
+Contact number: +91-9876543210.
+Website: https://www.abctech.com
+Python is amazing!

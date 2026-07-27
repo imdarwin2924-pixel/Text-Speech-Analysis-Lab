@@ -1,0 +1,33 @@
+============================================================
+Original Text
+============================================================
+John Smith joined ABC Technologies on 12/05/2025.
+His email is john.smith@gmail.com and alternate email is john@yahoo.com.
+Contact number: +91-9876543210.
+Website: https://www.abctech.com
+Python is amazing!
+Natural Language Processing is interesting.
+
+Words
+['John', 'Smith', 'joined', 'ABC', 'Technologies', 'on', '12', '05', '2025', 'His', 'email', 'is', 'john', 'smith', 'gmail', 'com', 'and', 'alternate', 'email', 'is', 'john', 'yahoo', 'com', 'Contact', 'number', '91', '9876543210', 'Website', 'https', 'www', 'abctech', 'com', 'Python', 'is', 'amazing', 'Natural', 'Language', 'Processing', 'is', 'interesting']
+
+Numbers
+['12', '05', '2025', '91', '9876543210']
+
+Emails
+['john.smith@gmail.com', 'john@yahoo.com']
+
+Phone Numbers
+['+91-9876543210']
+
+Dates
+['12/05/2025']
+
+URLs
+['https://www.abctech.com']
+
+Capitalized Words
+['John', 'Smith', 'Technologies', 'His', 'Contact', 'Website', 'Python', 'Natural', 'Language', 'Processing']
+
+Tokens
+['John', 'Smith', 'joined', 'ABC', 'Technologies', 'on', '12', '/', '05', '/', '2025', '.', 'His', 'email', 'is', 'john', '.', 'smith', '@', 'gmail', '.', 'com', 'and', 'alternate', 'email', 'is', 'john', '@', 'yahoo', '.', 'com', '.', 'Contact', 'number', ':', '+', '91', '-', '9876543210', '.', 'Website', ':', 'https', ':', '/', '/', 'www', '.', 'abctech', '.', 'com', 'Python', 'is', 'amazing', '!', 'Natural', 'Language', 'Processing', 'is', 'interesting', '.']
