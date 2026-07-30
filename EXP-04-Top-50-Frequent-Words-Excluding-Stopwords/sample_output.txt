@@ -1,0 +1,32 @@
+============================================================
+Top 50 Most Frequently Occurring Words
+============================================================
+
+Word                 Frequency
+-----------------------------------
+
+emma                 865
+could                837
+would                835
+mrs                  699
+miss                 599
+must                 567
+harriet              506
+much                 486
+said                 484
+one                  452
+weston               439
+think                433
+every                427
+elton                385
+well                 380
+knightley            389
+never                352
+little               350
+good                 340
+know                 338
+jane                 301
+fairfax              296
+young                294
+great                290
+...
